@@ -33,4 +33,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Credits
 
-Credits goes to [Byfron HQ](https://discord.gg/8G9RuXuRkB)
+Credits goes to [me](https://github.com/DatamindDev) and [chicagogrimreaper](https://github.com/chicagogrimreaper)
+Join For more dumpers : [Byfron HQ](https://discord.gg/8G9RuXuRkB)
