@@ -34,4 +34,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Credits
 
 Credits goes to [Byfron HQ](https://discord.gg/8G9RuXuRkB)
-( @chicagorimreaper )
