@@ -1,4 +1,4 @@
-![MoonDumper Logo](https://cdn.discordapp.com/attachments/980410775535501342/1097536488259977447/image-removebg-preview.png){width=50%}
+![MoonDumper Logo](https://cdn.discordapp.com/attachments/980410775535501342/1097536488259977447/image-removebg-preview.png)
 
 # MoonDumper
 
