@@ -30,8 +30,3 @@ Note : this was made in 1 hour so it may be bad. No hate on moonsec or federal.
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## Credits
-
-Credits goes to [me](https://github.com/DatamindDev) and [chicagogrimreaper](https://github.com/chicagogrimreaper)
-Join For more dumpers : [Byfron HQ](https://discord.gg/8G9RuXuRkB)
